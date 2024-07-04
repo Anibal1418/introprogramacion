@@ -26,6 +26,6 @@ for cha in text:
     if(cha.lower() == lastcha):
         count += 1
 print(f"El último caracter se repite {count} veces.")
-36
+#6
 inv = text[::-1]
 print("La palabra invertida es:", inv)
